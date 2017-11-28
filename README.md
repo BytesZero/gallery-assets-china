@@ -17,3 +17,9 @@ CC0 landscape images from:
 - https://pixabay.com/en/landscape-mountains-abendstimmung-640617/
 - https://pixabay.com/en/landscape-desert-clear-viewsand-692395/
 - https://www.pexels.com/photo/sea-landscape-mountains-nature-3754/
+
+## Origin of videos
+CC0 videos from:
+
+- https://pixabay.com/en/videos/butterfly-flower-insect-nature-209/
+- https://pixabay.com/en/videos/honey-bee-insect-bee-flower-flying-211/mit-macbookpro2:gallery-assets
